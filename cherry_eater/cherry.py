@@ -13,9 +13,9 @@ pygame.display.set_caption('Игра смурф смурфный')
 WHITE = (255,255,255)
 
 player = pygame.Rect(300,100,50,40)
-playerImage = pygame.image.load('/pic/smurf.png')
+playerImage = pygame.image.load('pic/smurf.png')
 playerStretchedImage = pygame.transform.scale(playerImage,(40,40))
-foodImage = pygame.image.load('/pic/apple.png')
+foodImage = pygame.image.load('pic/apple.png')
 foods = []
 for i in range(20):
 	foods.append(pygame.Rect(random.randint(0,WINDOWWIDTH-20),random.randint(0,WINDOWHEIGHT-20),20,20))
@@ -30,8 +30,8 @@ moveDown=False
 
 MOVESPEED = 6
 
-pickUpSound= pygame.mixer.Sound('/sound/pickup.wav')
-pygame.mixer.music.load('/sound/background.mid')
+pickUpSound= pygame.mixer.Sound('sound/pickup.wav')
+pygame.mixer.music.load('sound/background.mid')
 pygame.mixer.music.play(-1,0.0)
 musicPlaying = True
 
@@ -75,17 +75,17 @@ while True:
 					pygame.mixer.music.play(-1,0.0)
 				musicPlaying = not musicPlaying
 		if event.type == MOUSEBUTTONUP:
-			foods.append(pygame.Rect(event.pos[0]-10,event.pos[1]-10,20,20)
+			foods.append(pygame.Rect(event.pos[0]-10,event.pos[1]-10,20,20))
 
-	#foodCounter+=1
+	foodCounter+=1
 	if foodCounter >= NEWFOOD:
 		foodCounter = 0
 		foods.append(pygame.Rect(random.randint(0,WINDOWWIDTH-20),random.randint(0,WINDOWHEIGHT-20),20,20))
 	
 	windowSurface.fill(WHITE)
 	backgroundSurface= pygame.Rect(0,0,400,400)
-	backgroundPic= pygame.image.load('/pic/background.png')
-	backgroundStretchedImage=pygame.transform.scale(backgroundPic,400,400)
+	backgroundPic= pygame.image.load('pic/background.png')
+	backgroundStretchedImage=pygame.transform.scale(backgroundPic,(400,400))
 
 	if moveDown and player.bottom < WINDOWHEIGHT:
 		player.top +=MOVESPEED
