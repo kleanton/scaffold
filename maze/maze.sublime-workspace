@@ -1,0 +1,515 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"foo",
+				"foodCounter"
+			],
+			[
+				"food",
+				"food"
+			],
+			[
+				"f",
+				"foodImage"
+			],
+			[
+				"fo",
+				"for\tFor Loop"
+			],
+			[
+				"pl",
+				"play"
+			],
+			[
+				"pi",
+				"pickUpSound"
+			],
+			[
+				"p",
+				"playerImage"
+			],
+			[
+				"tr",
+				"transform"
+			],
+			[
+				"ba",
+				"backgroundSurface"
+			],
+			[
+				"W",
+				"WINDOWWIDTH"
+			],
+			[
+				"mo",
+				"moveRight"
+			],
+			[
+				"MO",
+				"MOVESPEED"
+			],
+			[
+				"w",
+				"windowSurface"
+			],
+			[
+				"Wi",
+				"WINDOWHEIGHT"
+			],
+			[
+				"ra",
+				"randint"
+			],
+			[
+				"mu",
+				"musicPlaying"
+			],
+			[
+				"musi",
+				"musicPlaying"
+			],
+			[
+				"WI",
+				"WINDOWHEIGHT"
+			],
+			[
+				"e",
+				"exit"
+			],
+			[
+				"move",
+				"moveUp"
+			],
+			[
+				"WIN",
+				"WINDOWWIDTH"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"i",
+				"import"
+			],
+			[
+				"el",
+				"elif"
+			],
+			[
+				"get",
+				"getScoreOfBoard"
+			],
+			[
+				"ma",
+				"mainBoard"
+			],
+			[
+				"com",
+				"computerTile"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"sho",
+				"showPoints"
+			],
+			[
+				"Pl",
+				"playerTile"
+			],
+			[
+				"va",
+				"validMovesBoard"
+			],
+			[
+				"sh",
+				"showHints"
+			],
+			[
+				"en",
+				"enterPlayerTile"
+			],
+			[
+				"re",
+				"resetBoard"
+			],
+			[
+				"s",
+				"scores"
+			],
+			[
+				"sco",
+				"scores"
+			],
+			[
+				"be",
+				"bestMove"
+			],
+			[
+				"is",
+				"isOnCorner"
+			],
+			[
+				"cp",
+				"computerTile"
+			],
+			[
+				"D",
+				"DIGITS1TO8"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"g",
+				"getBoardCopy"
+			],
+			[
+				"til",
+				"tilesToFlip"
+			],
+			[
+				"b",
+				"board"
+			],
+			[
+				"r",
+				"return"
+			],
+			[
+				"B",
+				"board"
+			],
+			[
+				"the",
+				"theChests"
+			],
+			[
+				"th",
+				"theChests"
+			],
+			[
+				"с",
+				"судне"
+			],
+			[
+				"за",
+				"затонувшем"
+			],
+			[
+				"a",
+				"append"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"new",
+				"newChest"
+			],
+			[
+				"c",
+				"chests"
+			],
+			[
+				"ran",
+				"randint"
+			],
+			[
+				"bo",
+				"board"
+			],
+			[
+				"ко",
+				"Компьютер"
+			],
+			[
+				"t",
+				"theBoard"
+			],
+			[
+				"крести",
+				"Крестики-нолики"
+			],
+			[
+				"ch",
+				"chooseRandomMoveFromList"
+			],
+			[
+				"mov",
+				"moveList"
+			],
+			[
+				"ca",
+				"caveNumber"
+			],
+			[
+				"gu",
+				"guessesTaken"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"l",
+				"l_letter"
+			],
+			[
+				"li",
+				"list_secret"
+			],
+			[
+				"lis",
+				"list_word"
+			],
+			[
+				"list",
+				"list_secret"
+			],
+			[
+				"word",
+				"word"
+			],
+			[
+				"р",
+				"работа"
+			],
+			[
+				"д",
+				"день"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "4FGESDASDHGYUUUUUUUUUUUUYTS76T]\n6fydy6\n7dyuriewfyuuiwfwj4iueurh8u43fn988ju3eurhjyueueeyeyju8ju8ru\nbwqjhghwhsghghhghhghghwozkpwl.,kpl,r[lkadl,kjsdkrmkkkgdfypgzusvgfzrtdrftcadrftgAFCXSXVSYFFXXXFTW3GY\t7S87SWQIUWOAI 9WI8W98IA 0aow=q\nCFHJC SWHUYUUU YAHYHH HSY\nheysusy\nhujcygh\njskijjsi\nll98hwjjoiwwwweihiijkikie\npyimu\nrghdyujidiiloyg2sjy yujsuhyeesn7hduy\nuryui\nuy8hr3e7u\nuydpysdfscbgxabgshxhsy\nyrtrYT6ES\nSWG6THWY8\nsjdju\n\ngvbwhex\n\nmov\njhnjlkwmd\nkdjk\njkdlwdjd\nnxnmk;d\ndxm,mk,x\n",
+			"settings":
+			{
+				"buffer_size": 469,
+				"line_ending": "Unix",
+				"name": "4FGESDASDHGYUUUUUUUUUUUUYTS76T]"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 420.0,
+		"history":
+		[
+			"help",
+			"help()",
+			"python3",
+			"run"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/kleanton/work/cherry_eater/cherry.py",
+		"/home/kleanton/work/othello/othello.py",
+		"/home/kleanton/work/win/win.py",
+		"/home/kleanton/work/sonar/sonar.py",
+		"/home/kleanton/work/maze/maze.py",
+		"/home/kleanton/work/scaffold/count_list.py",
+		"/home/kleanton/work/scaffold/csv_read.py",
+		"/home/kleanton/Видео/python-course/Материалы к урокам/Day4/Code/tricks/unpacking.py",
+		"/home/kleanton/work/scaffold/scaffold.py",
+		"/home/kleanton/work/guess_num/guess.py",
+		"/home/kleanton/work/dragons/dragons.py",
+		"/home/kleanton/work/xo/xo.py",
+		"/home/kleanton/Видео/python-course/HW/ask_number.py"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 469,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								171,
+								55
+							]
+						],
+						"settings":
+						{
+							"auto_name": "4FGESDASDHGYUUUUUUUUUUUUYTS76T]",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 114.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 35.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "maze.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 132.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

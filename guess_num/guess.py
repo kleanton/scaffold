@@ -7,7 +7,7 @@ number = random.randint(1,20)
 print(myName+' ,загадываю число от 1 до 20.')
 
 for guessesTaken in range(6):
-    guess=int(input('Попробуй угадать.'))
+    guess=int(input('Попробуй угадать.\n'))
 
     if guess < number:
         print('Не угадал. Моё число больше твоего')
