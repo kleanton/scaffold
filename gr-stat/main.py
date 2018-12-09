@@ -90,6 +90,7 @@ for letter in allnewsletters:
         #     for key in get_newsletters_stat(letter['newsletterId']):
         #             sent.append(key['sent'])
         #             uniqueOpened.append(key['uniqueOpened']) 
+        
         #             totalClicked.append(key['totalClicked'])
         #             uniqueClicked.append(key['uniqueClicked'])
         #             unsubscribed.append(key['unsubscribed'])
